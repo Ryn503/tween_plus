@@ -1,6 +1,6 @@
 # Tween+
 
-A basic tween system made with c++.
+A basic tween class for tweening.
 
 # Linear tween demo
 
