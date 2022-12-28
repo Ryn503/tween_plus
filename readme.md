@@ -1,12 +1,10 @@
 # Tween+
 
 A basic tween system made with c++.
-<br><br>
 
 # Linear tween demo
 
 ![demo.cpp](linear_demo.gif)
-<br><br>
 
 # Info
 
@@ -37,7 +35,6 @@ Out
 In out
 Out in
 ```
-<br>
 
 # Example
 
@@ -101,12 +98,9 @@ int main()
 }
 ```
 
-<br>
-
 ### Visual example:
 ```cpp
 #include <SFML/Graphics.hpp>
-#include <iostream>
 #include "tween.hpp"
 #include "easing.hpp"
 
